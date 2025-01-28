@@ -1,0 +1,12 @@
+cargo-features = ["edition2024"]
+[package]
+name = "pinocchio-test"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+pinocchio = "0.7.1"
+pinocchio-log = "0.3.0"

@@ -1,0 +1,16 @@
+{
+  "name": "client",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@codama/renderers": "^1.0.7",
+    "@solana/web3.js": "^2.0.0",
+    "codama": "^1.2.1"
+  }
+}

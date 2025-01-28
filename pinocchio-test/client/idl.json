@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "name": "pinocchio_test",
+  "instructions": [
+    {
+      "name": "process_instruction",
+      "accounts": [],
+      "args": [],
+      "discriminant": {
+        "type": "u8",
+        "value": 0
+      }
+    }
+  ],
+  "accounts": [],
+  "types": [],
+  "errors": [],
+  "metadata": {
+    "origin": "shank",
+    "address": "H6q6F2Zrv7aGua88DY7fCJ9GgqNCPh7KbPRZfRc6CTXX"
+  },
+  "address": "H6q6F2Zrv7aGua88DY7fCJ9GgqNCPh7KbPRZfRc6CTXX"
+}
