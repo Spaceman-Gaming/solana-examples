@@ -78,7 +78,6 @@ export class PinocchioTestClient {
     const sig = getSignatureFromTransaction(tx);
     console.log("SIG: ", sig);
 
-
     // Send and confirm transaction
     await (sendAndConfirmTransactionFactory({
       rpc: this.rpc,
